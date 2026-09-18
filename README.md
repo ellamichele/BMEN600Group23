@@ -8,4 +8,6 @@
    https://gtexportal.org/home/downloads/adult-gtex/bulk_tissue_expression
 
 2. We want to investigate how low dose radiation vs high dose affect cell deaths (fibroblasts)
-our biggest uncertainty is how to properly determine and classify what is "low-dose" and "high dose" Radiation and where it ends up localized
+our biggest uncertainty is how to properly determine and classify what is "low-dose" and "high dose" Radiation and where it ends up localized.
+
+https://www.ncbi.nlm.nih.gov/sra/PRJNA1019267
