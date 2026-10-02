@@ -11,3 +11,6 @@
 3. We want to investigate how low dose radiation vs high dose affect cell deaths (fibroblasts) using SRA database. Our biggest uncertainty is how to properly determine and classify what is "low-dose" and "high dose" Radiation and where it ends up localized.
 
    Dataset: https://www.ncbi.nlm.nih.gov/sra/PRJNA1019267
+
+
+**Activity 2: Project/Teamwork Plan**
