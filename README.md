@@ -18,4 +18,4 @@
 
 <img width="479" height="495" alt="Proj,Teamwork Plan" src="https://github.com/user-attachments/assets/27f34b37-0081-46f8-9c3d-84da6ea17341" />
 
-Revise: The overall project works; we are using the GTEx dataset but may need to refine the specific disease chosen (parkinsons) and the specific area of the brain we are focusing on. We also may need additional datasets to compare the normal GTEx data to specific parkinsons markers. 
+Revise: The overall project works; we are using the GTEx dataset but we may need to refine the chosen disease (Parkinson's) and the specific brain region we are focusing on. We also may need additional datasets to compare the normal GTEx data to specific disease markers. 
