@@ -14,4 +14,6 @@
 
 
 **Activity 2: Project/Teamwork Plan**
+
+
 <img width="479" height="495" alt="Proj,Teamwork Plan" src="https://github.com/user-attachments/assets/27f34b37-0081-46f8-9c3d-84da6ea17341" />
